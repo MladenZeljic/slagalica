@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "Glavni grad Hrvatske je:": [
+        {
+          "answer1": [{"title":"Zagreb"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Split"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Dubrovnik"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Rijeka"},{"status" : "false"}]
+        }
+      ],
+      "Izumitelj električne sijalice je:": [
+        {
+          "answer1": [{"title":"Tomas Edison"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Nikola Tesla"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Aleksandar Bel"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Luis Dager"},{"status" : "false"}]
+        }
+      ],
+      "Crveni pigment krvnih zrnaca u krvi potiče od:": [
+        {
+          "answer1": [{"title":"Hemoglobina"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Uree"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Krvne plazme"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Glukoze"},{"status" : "false"}]
+        }
+      ],
+      "Osnovne boje u slikarstvu su:": [
+        {
+          "answer1": [{"title":"Crvena, Plava i Žuta"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Crvena, Plava, Zelena"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Plava, Žuta i Smeđa"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Zelena, Žuta i Cijan"},{"status" : "false"}]
+        }
+      ],
+      "Mjesto nastanka i razvoja minojske kulture bronzanog doba je:": [
+        {
+          "answer1": [{"title":"Krit"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Kipar"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Krf"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Korint"},{"status" : "false"}]
+        }
+      ],
+      "Oziris je bog u čijoj religiji:": [
+        {
+          "answer1": [{"title":"Egipatskoj"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Rimskoj"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Grčkoj"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Feničanskoj"},{"status" : "false"}]
+        }
+      ],
+      "Najmoćnija feničanska kolonija je bila:": [
+        {
+          "answer1": [{"title":"Kartagina"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Tir"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Sidon"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Biblos"},{"status" : "false"}]
+        }
+      ],
+      "Ruševine drevnog grada Ugarita se nalaze u:": [
+        {
+          "answer1": [{"title":"Siriji"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Egiptu"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Iraku"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Turskoj"},{"status" : "false"}]
+        }
+      ],
+      "Vesna je bila slovenska boginja:": [
+        {
+          "answer1": [{"title":"Proljeća"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Ljepote"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Ljubavi"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Triumfa"},{"status" : "false"}]
+        }
+      ],
+      "Amphibia je latinski naziv za:": [
+        {
+          "answer1": [{"title":"Vodozemce"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Školjkaše"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Ribe"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Insekte"},{"status" : "false"}]
+        }
+      ],
+      "Koje godine je izašao posljednji album grupe 'The Beatles' 'Abbey Road' ?": [
+        {
+          "answer1": [{"title":"1969"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"1968"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"1970"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"1971"},{"status" : "false"}]
+        }
+      ],
+      "U kojem gradu se nalazi sjedište FIFA-e:": [
+        {
+          "answer1": [{"title":"Cirihu"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Parizu"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Londonu"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Berilnu"},{"status" : "false"}]
+        }
+      ],
+      "'Rasprava o metodi' je djelo filozofa:": [
+        {
+          "answer1": [{"title":"Renea Dekarta"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Artura Šopenhauera"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Karl Popera"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Gotfrida Lajbnica"},{"status" : "false"}]
+        }
+      ],
+      "Država sa najviše stanovnika (2018) je:": [
+        {
+          "answer1": [{"title":"Kina"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Indija"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Rusija"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"SAD"},{"status" : "false"}]
+        }
+      ],
+      "Koje godine je snimljen jugoslovenski film 'Maratonci trče počasni krug' ?": [
+        {
+          "answer1": [{"title":"1982"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"1980"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"1978"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"1984"},{"status" : "false"}]
+        }
+      ],
+      "Koje godine se odigrala Bitka na Neretvi ?": [
+        {
+          "answer1": [{"title":"1943"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"1942"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"1944"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"1941"},{"status" : "false"}]
+        }
+      ],
+      "Najvažniji utvrđeni grad srednjevijekovne Bosne je bio:": [
+        {
+          "answer1": [{"title":"Bobovac"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Visoki"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Soli"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Jajce"},{"status" : "false"}]
+        }
+      ],
+      "U koju grupu jezika spada estonski jezik?": [
+        {
+          "answer1": [{"title":"Ugro-finskih jezika"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Baltičkih jezika"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Germanskih jezika"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Slovenskih jezika"},{"status" : "false"}]
+        }
+      ],
+      "Kašupski jezik spada u grupu:": [
+        {
+          "answer1": [{"title":"Zapadnoslovenskih jezika"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Istočnoslovenskih jezika"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Germanskih jezika"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Ugro-finskih jezika"},{"status" : "false"}]
+        }
+      ],
+      "Ko je bio prvi čovjek koji je nogom stupio na sve kontinente osim Antarktike?": [
+        {
+          "answer1": [{"title":"Džejms Kuk"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Kristofer Kolumbo"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Ferdinand Magelan"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Vasko De Gama"},{"status" : "false"}]
+        }
+      ],
+      "Magelanov prolaz se nalazi između:": [
+        {
+          "answer1": [{"title":"Južne Amerike i Antarktike"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Sjeverne Amerike i Azije"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Australije i Azije"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Evrope i Azije"},{"status" : "false"}]
+        }
+      ],
+      "Najveća luka Albanije je:": [
+        {
+          "answer1": [{"title":"Drač"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Valona"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Saranda"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Shëngjin"},{"status" : "false"}]
+        }
+      ],
+      "Roman 'Glad' je napisao?": [
+        {
+          "answer1": [{"title":"Knut Hamsun"},{"status" : "true"}]
+        },
+        {
+          "answer2": [{"title":"Tomas Man"},{"status" : "false"}]
+        },
+        {
+          "answer3": [{"title":"Franc Kafka"},{"status" : "false"}]
+        },
+        {
+          "answer4": [{"title":"Čarls Dikens"},{"status" : "false"}]
+        }
+      ]
+    }
+  ]
+}

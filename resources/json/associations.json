@@ -1,0 +1,200 @@
+{"associations":[
+  {"association1": [
+    {"columns":[
+      {"columnA":[
+        {"fieldA1":"glumac"},
+        {"fieldA2":"grad"},
+        {"fieldA3":"ulaz"},
+        {"fieldA4":"cilj"},
+        {"solution": "glavni"}
+        ]},
+        {"columnB":[
+        {"fieldB1":"račun"},
+        {"fieldB2":"park prirode"},
+        {"fieldB3":"proizvod"},
+        {"fieldB4":"objekat"},
+        {"solution": "zaštićen"}
+        ]},
+        {"columnC":[
+        {"fieldC1":"film"},
+        {"fieldC2":"čovjek"},
+        {"fieldC3":"krik"},
+        {"fieldC4":"gluvoća"},
+        {"solution": "nijem"}
+        ]},
+        {"columnD":[
+        {"fieldD1":"sudija"},
+        {"fieldD2":"pismo"},
+        {"fieldD3":"kazna"},
+        {"fieldD4":"porota"},
+        {"solution": "sud"}
+        ]}
+      ]},
+    {"finalSolution":"svjedok"}
+  ]},
+  {"association2": [
+    {"columns":[
+      {"columnA":[
+        {"fieldA1":"kružnica"},
+        {"fieldA2":"masa"},
+        {"fieldA3":"svijet"},
+        {"fieldA4":"nervi"},
+        {"solution": "centar"}
+        ]},
+        {"columnB":[
+        {"fieldB1":"grad"},
+        {"fieldB2":"selo"},
+        {"fieldB3":"kamp"},
+        {"fieldB4":"sojenica"},
+        {"solution": "naselje"}
+        ]},
+        {"columnC":[
+        {"fieldC1":"razlomak"},
+        {"fieldC2":"podjela"},
+        {"fieldC3":"mjesec"},
+        {"fieldC4":"dio"},
+        {"solution": "četvrt"}
+        ]},
+        {"columnD":[
+        {"fieldD1":"objekat"},
+        {"fieldD2":"prostorija"},
+        {"fieldD3":"posao"},
+        {"fieldD4":"stan"},
+        {"solution": "zgrada"}
+        ]}
+      ]},
+    {"finalSolution":"grad"}
+  ]},
+  {"association3": [
+    {"columns":[
+      {"columnA":[
+        {"fieldA1":"godina"},
+        {"fieldA2":"jedan"},
+        {"fieldA3":"sreća"},
+        {"fieldA4":"bolji"},
+        {"solution": "život"}
+        ]},
+        {"columnB":[
+        {"fieldB1":"kiselina"},
+        {"fieldB2":"kora"},
+        {"fieldB3":"limunada"},
+        {"fieldB4":"voće"},
+        {"solution": "limun"}
+        ]},
+        {"columnC":[
+        {"fieldC1":"cvijet"},
+        {"fieldC2":"biljka"},
+        {"fieldC3":"sjemenka"},
+        {"fieldC4":"mašta"},
+        {"solution": "plod"}
+        ]},
+        {"columnD":[
+        {"fieldD1":"gumica"},
+        {"fieldD2":"sveska"},
+        {"fieldD3":"grafit"},
+        {"fieldD4":"mobitel"},
+        {"solution": "olovka"}
+        ]}
+      ]},
+    {"finalSolution":"drvo"}
+  ]},
+  {"association4": [
+    {"columns":[
+      {"columnA":[
+        {"fieldA1":"noć"},
+        {"fieldA2":"krevet"},
+        {"fieldA3":"ciklusi"},
+        {"fieldA4":"nrem"},
+        {"solution": "spavanje"}
+        ]},
+        {"columnB":[
+        {"fieldB1":"nalazi"},
+        {"fieldB2":"ugovor"},
+        {"fieldB3":"sud"},
+        {"fieldB4":"objašnjenje"},
+        {"solution": "tumačenje"}
+        ]},
+        {"columnC":[
+        {"fieldC1":"indonezija"},
+        {"fieldC2":"programiranje"},
+        {"fieldC3":"džakarta"},
+        {"fieldC4":"ostrvo"},
+        {"solution": "java"}
+        ]},
+        {"columnD":[
+        {"fieldD1":"oštrouman"},
+        {"fieldD2":"blistav"},
+        {"fieldD3":"svijetao"},
+        {"fieldD4":"jasan"},
+        {"solution": "lucidan"}
+        ]}
+      ]},
+    {"finalSolution":"san"}
+  ]},
+  {"association5": [
+    {"columns":[
+      {"columnA":[
+        {"fieldA1":"slika"},
+        {"fieldA2":"crtanje"},
+        {"fieldA3":"računar"},
+        {"fieldA4":"dizajn"},
+        {"solution": "grafika"}
+        ]},
+        {"columnB":[
+        {"fieldB1":"vibracija"},
+        {"fieldB2":"uzorkovanje"},
+        {"fieldB3":"herc"},
+        {"fieldB4":"vibracija"},
+        {"solution": "frekvencija"}
+        ]},
+        {"columnC":[
+        {"fieldC1":"kremen"},
+        {"fieldC2":"dolina"},
+        {"fieldC3":"kvarc"},
+        {"fieldC4":"poluprovodnik"},
+        {"solution": "silicijum"}
+        ]},
+        {"columnD":[
+        {"fieldD1":"logičko kolo"},
+        {"fieldD2":"radio"},
+        {"fieldD3":"PNP/NPN"},
+        {"fieldD4":"MOSFET"},
+        {"solution": "tranzistor"}
+        ]}
+      ]},
+    {"finalSolution":"mikroprocesor"}
+  ]},
+  {"association6": [
+    {"columns":[
+      {"columnA":[
+        {"fieldA1":"ulica"},
+        {"fieldA2":"mjesec"},
+        {"fieldA3":"jesen"},
+        {"fieldA4":"kiša"},
+        {"solution": "oktobar"}
+        ]},
+        {"columnB":[
+        {"fieldB1":"tkanina"},
+        {"fieldB2":"pamuk"},
+        {"fieldB3":"svila"},
+        {"fieldB4":"glas"},
+        {"solution": "baršun"}
+        ]},
+        {"columnC":[
+        {"fieldC1":"mašina"},
+        {"fieldC2":"proizvodnja"},
+        {"fieldC3":"automobil"},
+        {"fieldC4":"duvan"},
+        {"solution": "industrija"}
+        ]},
+        {"columnD":[
+        {"fieldD1":"galija"},
+        {"fieldD2":"franačka"},
+        {"fieldD3":"kuhinja"},
+        {"fieldD4":"korzika"},
+        {"solution": "francuska"}
+        ]}
+      ]},
+    {"finalSolution":"revolucija"}
+  ]}
+]}
